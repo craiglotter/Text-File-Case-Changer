@@ -1,0 +1,12 @@
+To change the case of the text contained within a plain text file, you first need to select the source text file. Once a valid file has been selected, you then pick one of the case option radiobuttons. 
+
+The choices are:
+ - lower case: all text is changed to lower case, meaning that all letters are uncapitalized
+ - UPPER CASE: all text is changed to upper case, meaning that all letters are capitalized
+ - Proper Case: all Words are forced to start with a capital letter
+ - Title Case: all words, apart from selected unimportant words like 'and', 'the' or 'a' are forced to start with a capital letter
+ - Sentence case: each beginning of a sentence is forced to start with a capital letter
+
+The operation status window shows what is going on during the operation. Once the operation has been completed, an option to view the resulting file or the activity log file becomes active. The operation can be cancelled at any time.
+
+-- Last Updated: 18/09/2007 --

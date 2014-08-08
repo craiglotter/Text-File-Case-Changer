@@ -1,0 +1,3 @@
+APPLICATION_NAME=Text File Case Changer
+EXECUTABLE=Text File Case Changer.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Text File Case Changer/manifest.xml
